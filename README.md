@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,sqlite,docker,git,postman,linux)](https://skillicons.dev)
 
----
+
 **Social media:**
 
   <div id="badges">

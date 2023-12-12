@@ -18,3 +18,6 @@
     
   </div>
 
+**Algorithms skills:**
+
+[![Mihailprogram LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=miha0003&theme=dark)](https://github.com/Mihailprogram/leetcode-stats)

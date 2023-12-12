@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35"/></h1>
 <h3 align="center">Python Backend Developer </h3>
 
-**About Me**
+**About Me:**
 
 **Since my school days, I have been interested in programming in Python. Because it is concise and easy to learn. Later I realized that Python is widely used in development. 
 I chose the backend direction for myself.**
